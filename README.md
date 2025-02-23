@@ -1,7 +1,7 @@
 # HI, I'm Shahmi 👋
 
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning and improving IT related matters
+- 🌱 I’m currently learning and improving IT tools and new technologies
 - 💞️ I’m looking to collaborate on IT related works
 - 📫 Cotact me via mohamedshahmi007@gmail.com
   
