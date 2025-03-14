@@ -1,4 +1,4 @@
-# HI, I'm Shahmi 👋
+# HI, I'm Mohamed Shahmi 👋
 
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning and improving IT tools and new technologies
