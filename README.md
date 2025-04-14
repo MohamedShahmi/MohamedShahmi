@@ -1,9 +1,6 @@
-# HI, I'm Mohamed Shahmi 👋
+<h1 align="center">Hi 👋, I'm Mohamed Shahmi</h1>
+<h3 align="center"> QA Enthusiast | Aspiring IT Professional</h3>
 
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning and improving IT tools and new technologies
-- 💞️ I’m looking to collaborate on IT related works
-- 📫 Cotact me via mohamedshahmi007@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedShahmi&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedShahmi" /> </p>
 
