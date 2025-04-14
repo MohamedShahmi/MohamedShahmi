@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shahmi</h1>
 <h3 align="center"> QA Enthusiast | Aspiring IT Professional</h3>
 
+- 📫 Contact me **moahemdshahmi007@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedShahmi&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedShahmi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedShahmi" alt="MohamedShahmi" /></a> </p>
