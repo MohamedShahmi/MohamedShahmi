@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shahmi</h1>
-<h3 align="center"> QA Enthusiast | Software Developer | Aspiring IT Professional</h3>
+<h3 align="center"> QA Enthusiast | Business Analyst | Aspiring IT Professional</h3>
 
 - 📫 Contact me **mohamedshahmi007@gmail.com**
 
